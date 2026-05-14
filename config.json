@@ -1,0 +1,16 @@
+{
+  "clip_model": "ViT-B/32",
+  "embedding_dim": 512,
+  "feature_dim": 1025,
+  "labels": {
+    "0": "AUTHENTIC",
+    "1": "MANIPULATED"
+  },
+  "label_colors": {
+    "0": "#00FF9C",
+    "1": "#FF4B4B"
+  },
+  "test_accuracy": 0.8825,
+  "test_f1": 0.8406,
+  "test_roc_auc": 0.9552
+}

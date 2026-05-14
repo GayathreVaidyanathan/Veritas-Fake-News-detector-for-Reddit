@@ -1,0 +1,9 @@
+streamlit==1.32.0
+torch==2.2.2
+ftfy
+regex
+Pillow
+numpy
+scikit-learn
+joblib
+requests
